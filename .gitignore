@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user
+blogdown
+public
+.DS_Store
+*.psd
