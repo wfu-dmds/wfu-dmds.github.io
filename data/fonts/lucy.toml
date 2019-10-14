@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Lucy"
+name = "lucy"
 
 # Optional Google font URL
 google_fonts = "Ubuntu:400,700|Karla:400,400italic,700|Karla+Mono"
 
 # Font families
-heading_font = "Ubuntu"
+heading_font = "IBM Plex Sans"
 body_font = "Karla"
-nav_font = "Karla"
-mono_font = "Karla Mono"
+nav_font = "IBM Plex Sans"
+mono_font = "Roboto Mono"
 
 # Font size
 font_size = "20"
