@@ -36,4 +36,31 @@ title = "Join us"
  css_style = ""
 +++
 
-Interested in joining our lab? Undergraduate spots will open Spring 2020, Graduate students spots will open Fall 2020.
+Some things that will make it easier for you to quickly transition into our lab:
+
+* A working knowledge of programming in [R](https://cran.r-project.org)
+* A [GitHub](https://github.com) account _Not sure what GitHub is? Check out this great resource, [Happy Git and GitHub for the useR](https://happygitwithr.com)_
+* A bit of an idea of the types of [projects](../projects) we work on.
+* Some familiarity / experience building statistical models
+
+Interested in joining our lab? 
+
+- [Undergraduate thesis student](#undergraduate-thesis-student)  
+- [Graduate student](#graduate-student)  
+- [Postdoctoral Fellow](#postdoctoral-fellow)  
+
+
+## Undergraduate thesis student
+
+If you are a current undergraduate student at Wake Forest University, we are excited to have you work on one of our projects, or an idea of your own! We will be taking on new students Fall 2020. Spots will be filled on a rolling basis. Fill out this interest form.
+
+
+## Graduate student
+
+If you are a current graduate student at Wake Forest interested in joining our lab fill out this [interest form]. 
+
+If you are a prospective graduate student considering attending Wake Forest, send me an email and we can chat more about the program.
+
+## Postdoctoral fellow
+
+_Information for prospective postdoctoral fellows coming soon._
