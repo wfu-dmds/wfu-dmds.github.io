@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "handshake"
+  icon_pack = "fas"
+  name = "Data analysis for the local community"
+  description = "We are actively engaged in data analysis projects for members of the local Winston-Salem community. Currently, our focus is on data from the Reynolda House. We are helping the Reynolda House manage, analyse, and visualize their data."
+  
+[[feature]]
   icon = "search-plus"
   icon_pack = "fas"
   name = "Quantifing sensitivity to unmeasured confounding"
@@ -26,11 +32,11 @@ subtitle = ""
   name = "tidycode"
   description = "In the spirit of studying human data interaction, we are developing an R package that can be used to analyze R code in the **tidyverse** paradigm."
   
-[[feature]]
-  icon = "keyboard"
-  icon_pack = "fas"
-  name = "p-hack-athon"
-  description = "We are conducting a study to assess if there are distinguishable patterns in how p-hacking takes place, studying the variation in p-values due to different processing steps, and understanding interventions that may encourage or discourage p-hacking."
+# [[feature]]
+#   icon = "keyboard"
+#   icon_pack = "fas"
+#   name = "p-hack-athon"
+#   description = "We are conducting a study to assess if there are distinguishable patterns in how p-hacking takes place, studying the variation in p-values due to different processing steps, and understanding interventions that may encourage or discourage p-hacking."
   
 [[feature]]
   icon = "r-project"
