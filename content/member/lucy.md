@@ -1,12 +1,9 @@
 +++
-bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "lucy"
 interests = ["causal inference", "human-data interaction", "data science"]
 name = "Lucy D'Agostino McGowan"
 portrait = "lucy.png"
-short_bio = ""
-short_name = ""
 title = "Lucy D'Agostino McGowan"
 
 [[education]]
