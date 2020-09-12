@@ -12,21 +12,17 @@ education:
   - course: Ph.D. in Biostatistics
     institution: Vanderbilt University
     year: 2018
-email: "tratjd17@wfu.edu"
 interests:
 - R programming
 - Causal inference
-- Disparities research
-- Predictive modeling
+- Human-data interaction
+- Data science pedagogy
 name: Lucy D’Agostino McGowan
 organizations:
 - name: Wake Forest University
   url: ""
 role: Assistant Professor of Mathematics and Statistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:mcgowald@wfu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LucyStats
@@ -39,4 +35,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Lucy D’Agostino McGowan is an Assistant Professor in the Mathematics and Statistics Department at Wake Forest University. More bio information!
+Lucy D’Agostino McGowan is an Assistant Professor in the Mathematics and Statistics Department at Wake Forest University. 
