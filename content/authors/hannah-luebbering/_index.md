@@ -36,10 +36,11 @@ Welcome to my page!
 
 I'm incredibly excited to work with Dr. McGowan, who is working on various exciting projects in R. Together, our research team is working on developing tools and shiny applications in teaching data science and studying human data interaction.
 
+About Me: 
 
 I am an undergraduate student at Wake Forest University pursuing a B.S. in Applied-Mathematics and a minor in Computer Science. My topics of interest include science and medicine, as well as mathematics and data-driven applications for solving large-scale problems. I think Github is an excellent platform because it promotes collaboration and allows us to develop faster. I believe that growing and expanding consciousness's scope and scale is the only way to ask the right questions and move forward. A quote from Arthur C. Clark perfectly summarizes my interest in technology, which said that "sufficiently advanced technology is indistinguishable from magic." And that's really true. 
 
-More about me: 
+
 
 * I'm from Leawood, Kansas, but unfortunately, I have never seen a tornado. 
 * My second home is in Colorado, where I love to hike and ski. 
