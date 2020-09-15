@@ -1,10 +1,4 @@
 ---
-title: "_index.md"
-author: "Nuri Park"
-date: "9/14/2020"
-output: html_document
----
----
 authors:
 - Nuri Park
 bio: Hello! I am an undergraduate student at Wake Forest University majoring in B.S. Mathematical Statistics with double minors in chemistry, and health policy and administration. I am thrilled to work with Dr. McGowan for my senior thesis on developing the best way to teach R in classroom settings using randomized controlled trial. I am passionate about utilizing big data and statistics to minimize health disparities and to improve the public health system in the U.S. 
