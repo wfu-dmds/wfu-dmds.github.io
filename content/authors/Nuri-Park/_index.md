@@ -33,6 +33,6 @@ user_groups:
 ---
 Hello! I am an undergraduate student at Wake Forest University majoring in B.S. Mathematical Statistics with double minors in chemistry, and health policy and administration. I am thrilled to work with Dr. McGowan for my senior thesis on developing the best way to teach R in classroom settings using randomized controlled trial. 
 
-I am passionate about utilizing big data and statistics to minimize health disparities and to improve the public health system in order to establish health equity in the U.S. In a data-driven world, I hope to use statistics as a solid ground to analyze problems that lead to the "gap" of health care. With such skills, I believe we all can break the barriers of numbers and develop the community where data has transformed into insight. 
+I am passionate about utilizing big data and statistics to minimize health disparities and to improve the public health system in order to establish health equity in the U.S. In a data-driven world, I hope to use statistics as a solid ground to analyze problems that lead to the "gap" of health care. With such skills, I believe I can contribute to break the barriers of numbers and to develop the community where data has transformed into insight. 
 
 
