@@ -21,57 +21,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:mendhm17@wfu.edu"
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: dropbox
-  icon_pack: fab
-  link: 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hmmendoza/
-- icon: reddit
-  icon_pack: fab
-  link: 
-- icon: stack-overflow
-  icon_pack: fab
-  link: 
-- icon: skype
-  icon_pack: fab
-  link: 
-- icon: arxiv
-  icon_pack: ai
-  link: https://arxiv.org/abs/1811.02332
-- icon: biorxiv
-  icon_pack: ai
-  link:
-- icon: doi
-  icon_pack: ai
-  link: 
-- icon: orcid
-  icon_pack: ai
-  link: 
-- icon: osf
-  icon_pack: ai
-  link: 
-- icon: pubmed
-  icon_pack: ai
-  link: 
-- icon: researchgate
-  icon_pack: ai
-  link: 
-- icon: semantic-scholar
-  icon_pack: ai
-  link: 
-- icon: springer
-  icon_pack: ai
-  link: 
-- icon: Zotero
-  icon_pack: ai
-  link: 
 superuser: true
 title: Hannah Mendoza
 user_groups:
