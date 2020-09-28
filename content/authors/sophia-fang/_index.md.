@@ -1,0 +1,36 @@
+---
+authors:
+- Sophia Fang
+bio: I am an undergraduate student from Wake Forest University, double major in Computer Science and Mathematical Statistics.
+education:
+  courses:
+  - course: B.S. in Compute Science
+    institution: Wake Forest University
+    year: Anticipated 2022
+  - course: B.A. in Mathematical Statistics
+    institution: Wake Forest University
+    year: Anticipated 2022
+email: "fangq18@wfu.edu"
+interests:
+- R programming
+- Applied Statistics
+- Machine Learning
+name: Sophia Fang
+organizations:
+- name: Wake Forest University
+  url: ""
+role: Undergraduate Researcher
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:fangq18@wfu.edu"
+- icon: github
+  icon_pack: fab
+  link: https://github.com/QimingFangS
+superuser: true
+title: Sophia Fang
+user_groups:
+- Undergraduate Students
+---
+
+My name is Sophia Fang. 
