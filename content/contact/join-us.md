@@ -52,7 +52,7 @@ Interested in joining our lab?
 
 ## Undergraduate thesis student
 
-If you are a current undergraduate student at Wake Forest University, we are excited to have you work on one of our projects, or an idea of your own! We will be taking on new students Fall 2020. Spots will be filled on a rolling basis. Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSdLuUkYYsd_lLoA9d8qU_89nPVFdaQKzhPAQbgf3KOMWTaC2A/viewform?usp=sf_link).
+If you are a current undergraduate student at Wake Forest University, we are excited to have you work on one of our projects, or an idea of your own! We will be taking on new students Spring 2021. Spots will be filled on a rolling basis. Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSdLuUkYYsd_lLoA9d8qU_89nPVFdaQKzhPAQbgf3KOMWTaC2A/viewform?usp=sf_link).
 
 
 ## Graduate student
