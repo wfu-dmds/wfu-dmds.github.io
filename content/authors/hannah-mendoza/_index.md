@@ -30,4 +30,6 @@ user_groups:
 - Undergraduate Students
 ---
 
-Hey there! I'm an undergraduate mathematics student. Storytelling with data has always been shiny and captivating to me as it marries mathematics and design, so I'm incredibly excited to be spending my senior year diving into data science and statistics via my coursework and Dr. D'Agostino McGowan's lab! I spent last fall learning lots of math (especially probability and combinatorics) in Budapest, and then I spent the spring interning at an education technology startup that surfaces data insights to teachers. I'm thrilled to continue learning and building my skills as a part of DMDS Lab!
+Storytelling with data is a captivating space for analysis to mingle with design. I'm particularly interested in questions surrounding public communication and journalism. Dr. D'Agostino McGowan and I are exploring best practices in science and public health communication by seeking to answer whether disclosing uncertainty affects the likelihood of the public to accept changing advice from public health officials as new insights form with new evidence. 
+
+I'm an undergraduate mathematics student. I spent last fall learning lots of math (especially probability and combinatorics) in Budapest, and I spent the spring interning at an education technology startup that empowers teachers with insights from data collected in their classrooms. I'm incredibly excited to be spending my senior year diving into data science and statistics via my coursework and DMDS lab!
