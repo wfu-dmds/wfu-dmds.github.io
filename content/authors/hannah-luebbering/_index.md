@@ -32,20 +32,6 @@ user_groups:
 - Undergraduate Students
 ---
 
-Welcome to my page! 
+Hello! I am an undergraduate at Wake Forest University, majoring in Applied Mathematics with a minor in computer science. I'm thrilled to work with Dr. McGowan's Data Science Lab on developing the best practices to teach R in both a classroom and online setting using a randomized controlled trial. As a research assistant, I've helped build the studies' interactive tutorials on how to do data analysis steps using tidyverse and create the randomized trial using shiny and learnr software tools. 
 
-I'm incredibly excited to work with Dr. McGowan, who is working on various exciting projects in R. Together, our research team is working on developing tools and shiny applications in teaching data science and studying human data interaction.
-
-About Me: 
-
-I am an undergraduate student at Wake Forest University pursuing a B.S. in Applied-Mathematics and a minor in Computer Science. My topics of interest include science and medicine, as well as mathematics and data-driven applications for solving large-scale problems. I think Github is an excellent platform because it promotes collaboration and allows us to develop faster. I believe that growing and expanding consciousness's scope and scale is the only way to ask the right questions and move forward. A quote from Arthur C. Clark perfectly summarizes my interest in technology, which said that "sufficiently advanced technology is indistinguishable from magic." And that's really true. 
-
-
-
-* I'm from Leawood, Kansas, but unfortunately, I have never seen a tornado. 
-* My second home is in Colorado, where I love to hike and ski. 
-* I'm a dog lover who adores my three dogs Max, Pip, and Cubs.
-* I love to read autobiographies about inspirational figures who aim to make the world a better place. 
-
-
-
+I'm excited to apply my mathematical and coding skills in using big data and technology to solve real-world problems. Overall, my goal is to gain more experience in data science and software development and help develop technological advances to improve other's quality of life. 
