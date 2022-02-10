@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "newspaper"
+  icon_pack = "fas"
+  name = "Statistical communication"
+  description = "We are examining both how statistics are communicated to the general public and how they may be best perceived."  
+  
+[[feature]]
   icon = "handshake"
   icon_pack = "fas"
   name = "Data analysis for the local community"
@@ -23,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "search-plus"
   icon_pack = "fas"
-  name = "Quantifing sensitivity to unmeasured confounding"
+  name = "Quantifying sensitivity to unmeasured confounding"
   description = "We are working to simplify sensitivity to unmeasured confounding analyses so that they can be implemented by non-statistical researchers in clinical or social science settings. We have created an R package on CRAN, [tipr](https://cran.r-project.org/web/packages/tipr/index.html), to facilitate this."
   
 [[feature]]
@@ -50,10 +56,12 @@ subtitle = ""
   name = "Data science pedagogy"
   description = "We are actively examining best practices in teaching data science, both in the classroom and via Massive Open Online Courses (MOOCs)."  
   
-[[feature]]
-  icon = "notes-medical"
-  icon_pack = "fas"
-  name = "Augmenting clinical trials with observation data"
-  description = "We are applying causal inference techniques to augment clinical trial data with observational data."
+# [[feature]]
+#   icon = "notes-medical"
+#   icon_pack = "fas"
+#   name = "Augmenting clinical trials with observation data"
+#   description = "We are applying causal inference techniques to augment clinical trial data with observational data."
+
+
 
 +++
