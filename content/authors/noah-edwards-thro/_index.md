@@ -6,7 +6,7 @@ education:
   courses:
   - course: B.S. in Mathematical Business
     institution: Wake Forest University
-    year: Anticipated 2022
+    year: 2022
 email: "edwanc18@wfu.edu"
 interests:
 - R Programming
@@ -27,51 +27,9 @@ social:
 - icon: github
   icon_pack: fab
   link:  https://github.com/nedwardsthro
-- icon: dropbox
-  icon_pack: fab
-  link: 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/noah-edwards-thro-017512181/
-- icon: reddit
-  icon_pack: fab
-  link: 
-- icon: stack-overflow
-  icon_pack: fab
-  link: 
-- icon: skype
-  icon_pack: fab
-  link: 
-- icon: arxiv
-  icon_pack: ai
-  link: 
-- icon: biorxiv
-  icon_pack: ai
-  link:
-- icon: doi
-  icon_pack: ai
-  link: 
-- icon: orcid
-  icon_pack: ai
-  link: 
-- icon: osf
-  icon_pack: ai
-  link: 
-- icon: pubmed
-  icon_pack: ai
-  link: 
-- icon: researchgate
-  icon_pack: ai
-  link: 
-- icon: semantic-scholar
-  icon_pack: ai
-  link: 
-- icon: springer
-  icon_pack: ai
-  link: 
-- icon: Zotero
-  icon_pack: ai
-  link: 
 superuser: true
 title: Noah Edwards-Thro
 user_groups:
