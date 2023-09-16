@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "people/sophia-fang/index.html",
+    "href": "people/sophia-fang/index.html",
+    "title": "Sophia Fang",
+    "section": "",
+    "text": "Hello! My name is Sophia Fang. I am a junior double majoring in Computer Science and Mathematical Statistics, minoring in Japanese. I am passionate about interdisciplinary studies, which not only allows me to continuously acquire new skills, but also allows me to utilize the knowledge from my major to solve problems in a variety of fields in the real world. Outside of class, I enjoy playing piano, cooking, and traveling. My next destination is (hopefully) Czechia.\n\n\n\nInterests\n\nR programming\nApplied Statistics\nMachine Learning\n\n\n\n\n Education\nWake Forest University\nB.A. in Mathematical Statistics and B.S. in Computer Science, 2022"
+  },
+  {
+    "objectID": "people/jonathan-trattner/index.html",
+    "href": "people/jonathan-trattner/index.html",
+    "title": "Jonathan D. Trattner",
+    "section": "",
+    "text": "Hello! Thanks for visiting my page. I’m enrolled in a combined B.S./M.S. in Neuroscience program.\nI’m extremely excited to work with Dr. McGowan for my undergraduate honors thesis. We’re developing tools in R to streamline behavioral data collection and processing in the social and biological sciences.\nMy master’s thesis is supervised by Dr. Kishida, and we are studying the neurobiology of decision making under uncertainty.\nSome (not so) fun facts about me:\n\nI’m from Orlando, FL, and I get asked if I go to Disney a lot more times than I’ve been to Disney.\nI like going to the gym to pick things up and put them down again.\nI enjoy reading and sleeping, though not at the same time.\nI’m a sushi lover (and chef) who is slightly concerned about consuming too much mercury.\n\n\n\n\nInterests\n\nR programming\nNeuroeconomics\nHuman Decision Making\n\n\n\n\n Education\nWake Forest University\nB.S. in Computational Neuroscience, 2021 M.S. in Biomedical Sciences, Neuroscience Concentration, 2022"
+  },
+  {
+    "objectID": "people/hannah-mendoza/index.html",
+    "href": "people/hannah-mendoza/index.html",
+    "title": "Hannah Mendoza",
+    "section": "",
+    "text": "Storytelling with data is a captivating space for analysis to mingle with design. I’m particularly interested in questions surrounding public communication and journalism. Dr. D’Agostino McGowan and I are exploring best practices in science and public health communication by seeking to answer whether disclosing uncertainty affects the likelihood of the public to accept changing advice from public health officials as new insights form with new evidence.\nI’m an undergraduate mathematics student. I spent last fall learning lots of math (especially probability and combinatorics) in Budapest, and I spent the spring interning at an education technology startup that empowers teachers with insights from data collected in their classrooms. I’m incredibly excited to be spending my senior year diving into data science and statistics via my coursework and DMDS lab!\n\n\n\nInterests\n\nR programming\nHuman-data interaction\nData presentation in journalism\n\n\n\n\n Education\nWake Forest University\nB.S. in Mathematics and Computer Science, 2020"
+  },
+  {
+    "objectID": "people/hannah-luebbering/index.html",
+    "href": "people/hannah-luebbering/index.html",
+    "title": "Hannah R. Luebbering",
+    "section": "",
+    "text": "Hello! I am an undergraduate at Wake Forest University, majoring in Applied Mathematics with a minor in computer science. I’m thrilled to work with Dr. McGowan’s Data Science Lab on developing the best practices to teach R in both a classroom and online setting using a randomized controlled trial. As a research assistant, I’ve helped build the interactive tutorials on using tidyverse for data analysis and create the randomized trial using shiny and learnr software tools.\nI’m excited to apply my mathematical and coding skills in using big data and technology to solve real-world problems. Overall, my goal is to gain more experience in data science and help develop technological advances to improve other’s quality of life.\n\n\n\nInterests\n\nR programming\nMathematics\nData Science\nData science pedagogy\nShiny\n\n\n\n\n Education\nWake Forest University\nB.S. in Applied Mathematics and Minor in Computer Science, 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "D’Agostino McGowanData Science Lab",
+    "section": "",
+    "text": "Welcome to the D'Agostino McGowan Data Science Lab in the Department of Statistical Sciences at Wake Forest University. Our primary goal is to use data to improve people's health, happiness, and wellbeing. Interested in what we're working on? Check out our current projects. Are you a current or prospective student at Wake Forest? Consider joining us!"
+  },
+  {
+    "objectID": "join-us.html",
+    "href": "join-us.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "Some things that will make it easier for you to quickly transition into our lab:\nInterested in joining our lab?"
+  },
+  {
+    "objectID": "join-us.html#undergraduate-thesis-student",
+    "href": "join-us.html#undergraduate-thesis-student",
+    "title": "Join Us",
+    "section": "Undergraduate thesis student",
+    "text": "Undergraduate thesis student\nIf you are a current undergraduate student at Wake Forest University, we are excited to have you work on one of our projects, or an idea of your own! We will be taking on new students Fall 2022. Spots will be filled on a rolling basis. Fill out this interest form."
+  },
+  {
+    "objectID": "join-us.html#graduate-student",
+    "href": "join-us.html#graduate-student",
+    "title": "Join Us",
+    "section": "Graduate student",
+    "text": "Graduate student\nIf you are a current graduate student at Wake Forest interested in joining our lab fill out this interest form.\nIf you are a prospective graduate student considering attending Wake Forest, send me an email and we can chat more about the program."
+  },
+  {
+    "objectID": "join-us.html#postdoctoral-fellow",
+    "href": "join-us.html#postdoctoral-fellow",
+    "title": "Join Us",
+    "section": "Postdoctoral fellow",
+    "text": "Postdoctoral fellow\nInformation for prospective postdoctoral fellows coming soon."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "We are examining both how statistics are communicated to the general public and how they may be best perceived.\n\n\n\n\n\n\n\n\nIn the spirit of studying human data interaction, we are developing an R package that can be used to analyze R code in the tidyverse paradigm.\n\n\n\n\n\n\n\n\nWe are working to simplify sensitivity to unmeasured confounding analyses so that they can be implemented by non-statistical researchers in clinical or social science settings. We have created an R package on CRAN, tipr, to facilitate this.\n\n\n\n\n\n\n\n\n\n\nWe are actively engaged in data analysis projects for members of the local Winston-Salem community. Currently, our focus is on data from the Reynolda House. We are helping the Reynolda House manage, analyse, and visualize their data.\n\n\n\n\n\n\n\n\nWe are developing shiny applications for the classroom setting.\n\n\n\n\n\n\n\n\nWe are actively examining best practices in teaching data science, both in the classroom and via Massive Open Online Courses (MOOCs)."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "DMDS",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Statistical Sciences"
+  },
+  {
+    "objectID": "people.html#principle-investigator",
+    "href": "people.html#principle-investigator",
+    "title": "DMDS",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Statistical Sciences"
+  },
+  {
+    "objectID": "people/noah-edwards-thro/index.html",
+    "href": "people/noah-edwards-thro/index.html",
+    "title": "Noah Edwards-Thro",
+    "section": "",
+    "text": "Hello! I am an undergraduate at Wake Forest University, double majoring in Mathematical Business and Philosophy. I’m thrilled to work with Dr. McGowan on my senior year thesis, “NBA Player Clustering Using Gaussian Mixture Modeling”.\nI am passionate about utilizing data to improve the product of sports at both a team level and a league level. I additionally have interests in healthcare data science and hope to pursue a career in data science in either health care or sports. After graduating from Wake Forest, I plan to pursue a Master’s in Data Science from the University of Virginia.\nOutside of the classroom I enjoy hiking, watching sports, running, cooking, playing with my dogs, and serving in my church.\n\n\n\nInterests\n\nR Programming\nSports Analytics\nMachine Learning\n\n\n\n\n Education\nWake Forest University\nB.S. in Mathematical Business, 2022"
+  },
+  {
+    "objectID": "people/Nuri-Park/index.html",
+    "href": "people/Nuri-Park/index.html",
+    "title": "Nuri Park",
+    "section": "",
+    "text": "Hello! I am an undergraduate student at Wake Forest University majoring in B.S. Mathematical Statistics with double minors in chemistry, and health policy and administration. I am thrilled to work with Dr. McGowan for my senior thesis on developing the best way to teach R in classroom settings using randomized controlled trial.\nI am passionate about utilizing big data and statistics to minimize health disparities and to improve the public health system in order to establish health equity in the U.S. In a data-driven world, I hope to use statistics as a solid ground to analyze problems that lead to the “gap” of health care. With such skills, I believe I can contribute to break the barriers of numbers and to develop the community where data has transformed into insight.\n\n\n\nInterests\n\nR programming\nBiostatistics and Epidemiology\nPublic Health\n\n\n\n\n Education\nWake Forest University\nB.S. in Mathematical Statistics, 2021"
+  },
+  {
+    "objectID": "people/Iris-Liu/index.html",
+    "href": "people/Iris-Liu/index.html",
+    "title": "Iris Liu",
+    "section": "",
+    "text": "I am a Junior double major in Mathematical Statistics and Studio Art. I am keen on applying my skills and experience in these two areas to solve problems analytically and creatively.\nI did a URECA research project mentored by Dr. McGowan during this summer. We helped the Reynolda House Museum of American Art manage, analyze, and visualize their data.\nBesides data, I am passionate about wilderness adventure, sustainability, and fine art.\n\n\n\nInterests\n\nR programming\nData visualization\nHuman-data interaction\n\n\n\n\n Education\nWake Forest University\nB.S. in Mathematical Statistics & B.A. in Studio Art, 2022"
+  }
+]
