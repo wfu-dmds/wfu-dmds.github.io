@@ -1,0 +1,19 @@
+---
+listing:
+  type: grid
+  contents: people
+  fields: [image, title, subtitle]
+---
+
+::: {style="text-align: center;"}
+## Principle Investigator
+
+![](https://www.lucymcgowan.com/img/headshot-square-2.jpg){width="33%"}
+
+### [Lucy D'Agostino McGowan](https://lucymcgowan.com)
+
+Assistant Professor\
+Department of Statistical Sciences
+
+## Students
+:::

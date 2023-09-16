@@ -1,7 +1,6 @@
+.Rproj.user
 .Rhistory
 .RData
-.Rproj.user
-blogdown
-public
-.DS_Store
-*.psd
+.Ruserdata
+
+/.quarto/

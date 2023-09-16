@@ -1,0 +1,18 @@
+---
+about:
+  template: jolla
+  image: logo.png
+  image-width: 20em
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/lucymcgowan
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lucystats
+title: D’Agostino McGowan<br>Data Science Lab
+---
+
+
+
+Welcome to the D\'Agostino McGowan Data Science Lab in the Department of Statistical Sciences at Wake Forest University. Our primary goal is to use data to improve people\'s health, happiness, and wellbeing. Interested in what we\'re working on? Check out our current [projects](https://dmds.lucymcgowan.com/projects). Are you a current or prospective student at Wake Forest? Consider [joining us](https://dmds.lucymcgowan.com/join-us)!

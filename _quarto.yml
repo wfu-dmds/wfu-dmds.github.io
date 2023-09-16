@@ -1,0 +1,29 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+  
+website:
+  title: "DMDS"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: "Projects"
+      - href: people.qmd
+        text: "People"
+      - join-us.qmd
+
+format:
+  html:
+    theme: cosmo
+    fontfamily: fraunces
+    fontcolor: "#333333"
+    linkcolor: "#D5008F"
+    backgroundcolor: "#f2f2f1"
+    css: styles.css
+
+editor: source
+

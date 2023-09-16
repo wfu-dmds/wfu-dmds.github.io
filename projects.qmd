@@ -1,0 +1,71 @@
+---
+layout: grid
+---
+
+::: {style="text-align: center;"}
+## Ongoing Projects
+
+::: grid
+::: g-col-4
+# {{< fa newspaper size=lg >}} {.icon}
+
+#### Statistical communication
+
+::: small
+We are examining both how statistics are communicated to the general public and how they may be best perceived.
+:::
+:::
+
+::: g-col-4
+# {{< fa laptop-code size=lg >}} {.icon}
+
+#### tidycode
+
+::: small
+In the spirit of studying human data interaction, we are developing an R package that can be used to analyze R code in the **tidyverse** paradigm.
+:::
+:::
+
+::: g-col-4
+# {{< fa search-plus size=lg >}} {.icon}
+
+#### Quantifying sensitivity to unmeasured confounding
+
+::: small
+We are working to simplify sensitivity to unmeasured confounding analyses so that they can be implemented by non-statistical researchers in clinical or social science settings. We have created an R package on CRAN, [tipr](https://cran.r-project.org/web/packages/tipr/index.html), to facilitate this.
+:::
+:::
+:::
+
+::: grid
+::: g-col-4
+# {{< fa handshake size=lg >}} {.icon}
+
+#### Data analysis for the local community
+
+::: small
+We are actively engaged in data analysis projects for members of the local Winston-Salem community. Currently, our focus is on data from the Reynolda House. We are helping the Reynolda House manage, analyse, and visualize their data.
+:::
+:::
+
+::: g-col-4
+# {{< fa laptop size=lg >}} {.icon}
+
+#### Shiny in the classroom
+
+::: small
+We are developing shiny applications for the classroom setting.
+:::
+:::
+
+::: g-col-4
+# {{< fa chalkboard-teacher size=lg >}} {.icon}
+
+#### Data science pedagogy
+
+::: small
+We are actively examining best practices in teaching data science, both in the classroom and via Massive Open Online Courses (MOOCs).
+:::
+:::
+:::
+:::
