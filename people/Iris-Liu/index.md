@@ -11,6 +11,7 @@ about:
       href: https://www.linkedin.com/in/irisliu991212
 title: Iris Liu
 subtitle: "Undergraduate Research Assistant, URECA Scholar"
+date: 2020
 ---
 
 I am a Junior double major in Mathematical Statistics and Studio Art. I am keen on applying my skills and experience in these two areas to solve problems analytically and creatively.

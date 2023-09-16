@@ -14,6 +14,7 @@ about:
 title: Noah Edwards-Thro
 subtitle: "Undergraduate Thesis Student"
 page-layout: full
+date: 2022
 ---
 
 Hello! I am an undergraduate at Wake Forest University, double majoring in Mathematical Business and Philosophy. I'm thrilled to work with Dr. McGowan on my senior year thesis, "NBA Player Clustering Using Gaussian Mixture Modeling".

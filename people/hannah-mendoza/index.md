@@ -9,6 +9,7 @@ about:
       href: https://www.linkedin.com/in/hmmendoza/
 title:  Hannah Mendoza
 subtitle: Undergraduate Thesis Student
+date: 2020
 ---
 
 Storytelling with data is a captivating space for analysis to mingle with design. I'm particularly interested in questions surrounding public communication and journalism. Dr. D'Agostino McGowan and I are exploring best practices in science and public health communication by seeking to answer whether disclosing uncertainty affects the likelihood of the public to accept changing advice from public health officials as new insights form with new evidence.
