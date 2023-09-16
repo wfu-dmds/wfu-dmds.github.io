@@ -4,6 +4,7 @@ about:
   template: trestles
 ---
 
+
 Some things that will make it easier for you to quickly transition into our lab:
 
 * A working knowledge of programming in [R](https://cran.r-project.org)
