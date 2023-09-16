@@ -12,7 +12,6 @@ about:
 title: Jonathan D. Trattner
 subtitle: "Undergraduate Thesis Student"
 page-layout: full
-date: 2021
 ---
 
 Hello! Thanks for visiting my page. I'm enrolled in a combined B.S./M.S. in Neuroscience program.

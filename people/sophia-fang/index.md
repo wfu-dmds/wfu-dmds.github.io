@@ -10,7 +10,6 @@ about:
 title: Sophia Fang
 subtitle: "Undergraduate Research Assistant"
 page-layout: full
-date: 2021
 ---
 
 Hello! My name is Sophia Fang. I am a junior double majoring in Computer Science and Mathematical Statistics, minoring in Japanese. I am passionate about interdisciplinary studies, which not only allows me to continuously acquire new skills, but also allows me to utilize the knowledge from my major to solve problems in a variety of fields in the real world. Outside of class, I enjoy playing piano, cooking, and traveling. My next destination is (hopefully) Czechia.

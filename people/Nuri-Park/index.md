@@ -10,7 +10,6 @@ about:
 title: Nuri Park
 subtitle: "Undergraduate Thesis Student"
 page-layout: full
-date: 2021
 ---
 
 Hello! I am an undergraduate student at Wake Forest University majoring in B.S. Mathematical Statistics with double minors in chemistry, and health policy and administration. I am thrilled to work with Dr. McGowan for my senior thesis on developing the best way to teach R in classroom settings using randomized controlled trial.
