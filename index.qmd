@@ -2,7 +2,7 @@
 about:
   template: jolla
   image: logo.png
-  image-width: 20em
+  image-width: 23em
   links: 
     - icon: github
       text: Github
