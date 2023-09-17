@@ -2,7 +2,6 @@
 about:
   template: broadside
   image: logo.png
-  image-width: 23em
   links: 
     - icon: github
       text: Github
