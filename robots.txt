@@ -1,1 +1,1 @@
-Sitemap: https://github.com/wfu-dmds/wfu-dmds.github.io/sitemap.xml
+Sitemap: https://dmds.lucymcgowan.com/sitemap.xml
