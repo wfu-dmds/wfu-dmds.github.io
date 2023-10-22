@@ -33,6 +33,6 @@ Hello! I'm James Zhao, currently a junior double major in Mathematical Statistic
 
 *Wake Forest University*
 
-B.S. in Mathematical Statistics and B.A. in Computer Science, 2023
+B.S. in Mathematical Statistics and B.A. in Computer Science, class of 2025
 :::
 :::
