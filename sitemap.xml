@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dmds.lucymcgowan.com/people.html</loc>
-    <lastmod>2023-10-15T19:50:35.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/hannah-mendoza/index.html</loc>
-    <lastmod>2023-10-15T19:50:34.402Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/jonathan-trattner/index.html</loc>
-    <lastmod>2023-10-15T19:50:33.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/hannah-luebbering/index.html</loc>
-    <lastmod>2023-10-15T19:50:32.990Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/Iris-Liu/index.html</loc>
-    <lastmod>2023-10-15T19:50:32.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/sophia-fang/index.html</loc>
-    <lastmod>2023-10-15T19:50:31.654Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/projects.html</loc>
-    <lastmod>2023-10-15T19:50:30.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/join-us.html</loc>
-    <lastmod>2023-10-15T19:50:31.318Z</lastmod>
-  </url>
-  <url>
     <loc>https://dmds.lucymcgowan.com/people/james-zhao/index.html</loc>
-    <lastmod>2023-10-15T19:50:31.982Z</lastmod>
+    <lastmod>2023-10-22T18:50:46.316Z</lastmod>
   </url>
   <url>
     <loc>https://dmds.lucymcgowan.com/people/noah-edwards-thro/index.html</loc>
-    <lastmod>2023-10-15T19:50:32.650Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dmds.lucymcgowan.com/people/Nuri-Park/index.html</loc>
-    <lastmod>2023-10-15T19:50:33.346Z</lastmod>
+    <lastmod>2023-10-22T18:50:45.624Z</lastmod>
   </url>
   <url>
     <loc>https://dmds.lucymcgowan.com/people/kiyo-takahashi/index.html</loc>
-    <lastmod>2023-10-15T19:50:34.058Z</lastmod>
+    <lastmod>2023-10-22T18:50:44.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/sophia-fang/index.html</loc>
+    <lastmod>2023-10-22T18:50:44.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/jonathan-trattner/index.html</loc>
+    <lastmod>2023-10-22T18:50:43.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/projects.html</loc>
+    <lastmod>2023-10-22T18:50:42.744Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/join-us.html</loc>
+    <lastmod>2023-10-22T18:50:41.364Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people.html</loc>
+    <lastmod>2023-10-22T18:50:42.376Z</lastmod>
   </url>
   <url>
     <loc>https://dmds.lucymcgowan.com/index.html</loc>
-    <lastmod>2023-10-15T19:50:34.710Z</lastmod>
+    <lastmod>2023-10-22T18:50:43.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/Iris-Liu/index.html</loc>
+    <lastmod>2023-10-22T18:50:43.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/hannah-luebbering/index.html</loc>
+    <lastmod>2023-10-22T18:50:44.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/Nuri-Park/index.html</loc>
+    <lastmod>2023-10-22T18:50:45.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmds.lucymcgowan.com/people/hannah-mendoza/index.html</loc>
+    <lastmod>2023-10-22T18:50:45.972Z</lastmod>
   </url>
 </urlset>
