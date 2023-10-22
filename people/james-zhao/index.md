@@ -1,7 +1,7 @@
 ---
 about:
   template: trestles
-  image: featured.jpg
+  image: Jz.jpg
   links:
     - icon: envelope
       href: "mailto:zhaoj221@wfu.edu"
