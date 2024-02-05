@@ -1,26 +1,27 @@
 ---
 about:
   template: trestles
-  image: featured.jpg
+  image: feature.jpg
   links:
     - icon: envelope
-      href: "mailto:takakj20@wfu.edu"
+      href: "mailto:zhanx223@wfu.edu"
     - icon: github
-      href:  https://github.com/takakj20
+      href:  https://github.com/FionaZhang23
 title: Fiona Zhang
 subtitle: "Undergraduate Research Student"
 page-layout: full
 ---
 
-Add description here
+Hello! I'm an undergraduate student at Wake Forest University. I will major in Mathematics and Computer Science. I really enjoy applying what I learnt in statistics and math to daily life data analysis and problem solving. Outside of class, I enjoy painting and skiing.
 
 ::: columns
 ::: column
 
 ### Interests
 
-- Add intetest
-- here
+- Computer Science
+- Applied Mathematics
+- Data Analysis
 
 :::
 
@@ -29,6 +30,6 @@ Add description here
 
 *Wake Forest University*
 
-Add major here 
+B.S. in Mathematics and B.S. in Computer Science, 2027
 :::
 :::
