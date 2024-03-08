@@ -12,7 +12,7 @@ subtitle: "Undergraduate Research Assistant"
 page-layout: full
 ---
 
-ADD TEXT ABOUT YOUR INTERESTS
+Hello! I'm James Zhao, currently a junior double major in Mathematical Statistics and Computer Science at Wake Forest University. I'm passionate about implementing statistical and computational analytics technique to solving real-world problems across industries, which not only builds a fundamental cognition of multiple industries in the world but also acquires the skills and knowledges that are particularly significant within the industry. 
 
 
 ::: columns
@@ -23,6 +23,9 @@ ADD TEXT ABOUT YOUR INTERESTS
 - R programming
 - Applied Statistics
 - Machine Learning
+- Data Science
+- Python
+
 :::
 
 ::: column
@@ -30,6 +33,6 @@ ADD TEXT ABOUT YOUR INTERESTS
 
 *Wake Forest University*
 
-B.A. in Mathematical Statistics and B.S. in Computer Science, 2022
+B.S. in Mathematical Statistics and B.A. in Computer Science, class of 2025
 :::
 :::
