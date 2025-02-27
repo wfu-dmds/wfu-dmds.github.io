@@ -9,6 +9,7 @@ about:
       href:  https://github.com/nuripark10
 title: Nuri Park
 subtitle: "Undergraduate Thesis Student"
+years active: 2020-2021
 page-layout: full
 ---
 

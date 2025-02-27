@@ -10,6 +10,7 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/irisliu991212
 title: Iris Liu
+years active: 2020-2021
 subtitle: "Undergraduate Research Assistant, URECA Scholar"
 ---
 

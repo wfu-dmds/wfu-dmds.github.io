@@ -7,6 +7,7 @@ about:
       href:  https://github.com/ivesxue
 title: Ives Xue
 subtitle: "Undergraduate Research Student"
+years active: 2024
 page-layout: full
 ---
 

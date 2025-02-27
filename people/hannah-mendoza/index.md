@@ -8,6 +8,7 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/hmmendoza/
 title:  Hannah Mendoza
+years active: 2020
 subtitle: Undergraduate Thesis Student
 ---
 

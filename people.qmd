@@ -2,7 +2,7 @@
 listing:
   type: grid
   contents: people
-  fields: [image, title, subtitle]
+  fields: [image, title, subtitle, years active]
 ---
 
 ::: {style="text-align: center;"}

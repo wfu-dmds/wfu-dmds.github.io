@@ -9,6 +9,7 @@ about:
       href:  https://github.com/QimingFangS
 title: Sophia Fang
 subtitle: "Undergraduate Research Assistant"
+years active: 2020
 page-layout: full
 ---
 

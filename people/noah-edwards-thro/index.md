@@ -13,6 +13,7 @@ about:
       href: https://www.linkedin.com/in/noah-edwards-thro-017512181/
 title: Noah Edwards-Thro
 subtitle: "Undergraduate Thesis Student"
+years active: 2021-2022
 page-layout: full
 ---
 

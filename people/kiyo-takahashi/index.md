@@ -9,6 +9,7 @@ about:
       href:  https://github.com/takakj20
 title: Kiyo Takahashi
 subtitle: "Undergraduate Honors Thesis Student"
+years active: 2023-2024
 page-layout: full
 ---
 

@@ -11,6 +11,7 @@ about:
       href: https://github.com/jdtrat
 title: Jonathan D. Trattner
 subtitle: "Undergraduate Thesis Student"
+years active: 2020-2021
 page-layout: full
 ---
 

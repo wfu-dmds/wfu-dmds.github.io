@@ -10,6 +10,7 @@ about:
       text: Github
       href: https://github.com/hluebbering
 title: Hannah R. Luebbering
+years active: 2020-2021
 subtitle: "Undergraduate Research Assistant"
 ---
 

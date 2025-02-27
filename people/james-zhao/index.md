@@ -9,6 +9,7 @@ about:
       href:  https://github.com/JamesZhaoZ
 title: James Zhao
 subtitle: "Undergraduate Research Assistant"
+years active: 2023
 page-layout: full
 ---
 

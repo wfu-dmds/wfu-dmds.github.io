@@ -9,6 +9,7 @@ about:
       href:  https://github.com/FionaZhang23
 title: Fiona Zhang
 subtitle: "Undergraduate Research Student"
+years active: 2024
 page-layout: full
 ---
 
