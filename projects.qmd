@@ -2,11 +2,16 @@
 layout: grid
 ---
 
+
 ::: {style="text-align: center;"}
-## Ongoing Projects
+
+# Ongoing Projects {style="text-align: center;"}
+
+***
 
 ::: grid
 ::: g-col-4
+
 # {{< fa newspaper size=lg >}} {.icon}
 
 #### Statistical communication
